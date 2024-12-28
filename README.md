@@ -21,7 +21,10 @@ This Power BI project demonstrates a comprehensive analysis of bank loan data to
 ---
 
 ## Tools and Technologies
-- **Power BI**: Used for data cleaning, modeling, and creating interactive dashboards.
+- **Power BI**: Used for  modeling, and creating interactive dashboards.
+- Microsoft Excel: Utilized for data cleaning and preprocessing.
+- MS SQL Server: Applied for query writing and data extraction.
+ 
 - **Data Source**: Bank loan dataset (simulated data for demonstration purposes).
 - **Visualization Techniques**: Applied pie charts, bar charts, line graphs, maps, and detailed tables for data representation.
 
